@@ -1,2 +1,0 @@
-# oss
-upic
